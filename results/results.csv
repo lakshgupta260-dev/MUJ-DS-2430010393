@@ -1,0 +1,12 @@
+Class,Precision,Recall,F1-Score
+Bact_spot,0.98,0.95,0.96
+Early_bli,0.95,0.93,0.94
+Late_bli,0.95,0.95,0.95
+Leaf_Mold,0.95,0.96,0.95
+Sept_spot,0.93,0.92,0.92
+Spid_mite,0.98,0.97,0.97
+Target_Sp,0.94,0.94,0.94
+YLC_Virus,1.0,0.99,0.99
+mosaic,0.99,0.98,0.98
+healthy,0.92,0.98,0.95
+Macro Avg,0.96,0.96,0.96

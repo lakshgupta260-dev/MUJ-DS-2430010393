@@ -1,0 +1,16 @@
+precision    recall  f1-score   support
+
+Bacterial spot       0.99      0.98      0.98       150
+  Early blight       0.98      0.97      0.97       150
+   Late blight       0.98      0.99      0.98       150
+     Leaf Mold       0.97      0.99      0.98       150
+Septoria spot       0.97      0.98      0.97       150
+  Spider mites       0.99      0.98      0.98       150
+   Target Spot       0.97      0.97      0.97       150
+YLC Virus           1.00      1.00      1.00       150
+  Mosaic virus       0.99      0.99      0.99       150
+       Healthy       0.99      0.99      0.99       150
+
+      accuracy                           0.9840      1500
+     macro avg       0.98      0.98      0.98      1500
+  weighted avg       0.98      0.98      0.98      1500
