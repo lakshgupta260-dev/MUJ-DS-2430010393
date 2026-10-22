@@ -92,6 +92,9 @@ MUJ-DS-2430010393/
 ## 4. Dataset Architecture & Preprocessing
 
 The benchmark is evaluated on the standard **PlantVillage Tomato Disease Dataset**:
+- **Dataset Source & Download Links:**
+  - 🔗 **Kaggle Public Benchmark:** [PlantVillage Dataset (Kaggle)](https://www.kaggle.com/datasets/emmarex/plantdisease)
+  - 🔗 **Official Benchmark Repository:** [PlantVillage Open Access (GitHub)](https://github.com/spMohanty/PlantVillage-Dataset)
 - **Total Images:** 10,000 RGB images
 - **Class Distribution:** Perfectly balanced across 10 classes (1,000 images per class)
 - **Input Resolution:** Resized and standardized to $224 \times 224 \times 3$
