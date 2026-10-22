@@ -1,0 +1,7 @@
+Library,Version
+Python,3.10.x
+PyTorch,2.1.x
+Torchvision,0.16.x
+NumPy,1.26.x
+Pandas,2.1.x
+Matplotlib,3.8.x

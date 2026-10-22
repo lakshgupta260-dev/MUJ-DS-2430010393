@@ -1,0 +1,4 @@
+Experiment,Accuracy,F1
+Exp 1 (Frozen ResNet18),78.5,0.78
+Exp 2 (Fine-Tuned ResNet18),88.2,0.88
+Exp 3 (Proposed: Fine-Tuned + Regularized),93.2,0.96
