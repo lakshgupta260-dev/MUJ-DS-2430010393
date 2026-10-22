@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch Checkpoints and large binaries (store weights via Releases or Drive)
+*.pth
+*.pt
+*.onnx
+
+# Datasets
+*.zip
+*.zip.zip
+data/
+Tomato_Disease_Dataset/
+
+# Environments
+venv/
+env/
+.venv/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
