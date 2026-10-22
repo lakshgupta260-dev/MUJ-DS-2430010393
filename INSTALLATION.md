@@ -15,7 +15,7 @@ This document provides step-by-step instructions to set up the environment, run 
 
 ### Step A: Clone the Repository
 ```bash
-git clone https://github.com/lakshgupta260/MUJ-DS-2430010393.git
+git clone https://github.com/lakshgupta260-dev/MUJ-DS-2430010393.git
 cd MUJ-DS-2430010393
 ```
 

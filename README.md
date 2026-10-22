@@ -17,7 +17,7 @@
 | **Branch / Department** | **Data Science (MUJ-DS)** |
 | **Batch** | **Batch F** |
 | **Project Title** | **Tomato Leaf Disease Classification Using Vision Transformers (ViT) & Deep Residual CNNs** |
-| **GitHub Username** | **lakshgupta260** |
+| **GitHub Username** | **lakshgupta260-dev** |
 | **Repository Name** | **MUJ-DS-2430010393** |
 | **Training Program** | **Batch F — Capstone Project & Data Science Training Program, Manipal University Jaipur (MUJ)** |
 
@@ -208,7 +208,7 @@ Per project guidelines, development was executed via milestone-based feature bra
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/lakshgupta260/MUJ-DS-2430010393.git
+git clone https://github.com/lakshgupta260-dev/MUJ-DS-2430010393.git
 cd MUJ-DS-2430010393
 
 # 2. Install dependencies
